@@ -1,0 +1,262 @@
+{
+    "cloud-id": 25316197,
+    "organization-id": "787004642c5df81b8fd166ef03834fba",
+    "channel-id": "LOCAL-e031ed201e44495c1cd2d8f565c1a519",
+    "description": "",
+    "algorithm-language": "Python",
+    "parameters": {},
+    "deployment-target": "Cloud Platform",
+    "backtestGrid": {
+        "md": [
+            {
+                "chartName": "Strategy Equity",
+                "width": 9,
+                "height": 5,
+                "row": 1,
+                "column": 1,
+                "sort": 11
+            },
+            {
+                "chartName": "Assets Sales Volume",
+                "width": 3,
+                "height": 9,
+                "row": 1,
+                "column": 10,
+                "sort": 20
+            },
+            {
+                "chartName": "Portfolio Margin",
+                "width": 9,
+                "height": 4,
+                "row": 6,
+                "column": 1,
+                "sort": 61
+            },
+            {
+                "chartName": "Drawdown",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 1,
+                "sort": 101
+            },
+            {
+                "chartName": "Exposure",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 5,
+                "sort": 105
+            },
+            {
+                "chartName": "Portfolio Turnover",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 9,
+                "sort": 109
+            }
+        ],
+        "lg": [
+            {
+                "chartName": "Strategy Equity",
+                "width": 9,
+                "height": 5,
+                "row": 1,
+                "column": 1,
+                "sort": 11
+            },
+            {
+                "chartName": "Assets Sales Volume",
+                "width": 3,
+                "height": 9,
+                "row": 1,
+                "column": 10,
+                "sort": 20
+            },
+            {
+                "chartName": "Portfolio Margin",
+                "width": 9,
+                "height": 4,
+                "row": 6,
+                "column": 1,
+                "sort": 61
+            },
+            {
+                "chartName": "Drawdown",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 1,
+                "sort": 101
+            },
+            {
+                "chartName": "Exposure",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 5,
+                "sort": 105
+            },
+            {
+                "chartName": "Portfolio Turnover",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 9,
+                "sort": 109
+            }
+        ],
+        "xs": [
+            {
+                "chartName": "Strategy Equity",
+                "width": 9,
+                "height": 5,
+                "row": 1,
+                "column": 1,
+                "sort": 11
+            },
+            {
+                "chartName": "Assets Sales Volume",
+                "width": 3,
+                "height": 9,
+                "row": 1,
+                "column": 10,
+                "sort": 20
+            },
+            {
+                "chartName": "Portfolio Margin",
+                "width": 9,
+                "height": 4,
+                "row": 6,
+                "column": 1,
+                "sort": 61
+            },
+            {
+                "chartName": "Drawdown",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 1,
+                "sort": 101
+            },
+            {
+                "chartName": "Exposure",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 5,
+                "sort": 105
+            },
+            {
+                "chartName": "Portfolio Turnover",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 9,
+                "sort": 109
+            }
+        ],
+        "sm": [
+            {
+                "chartName": "Strategy Equity",
+                "width": 9,
+                "height": 5,
+                "row": 1,
+                "column": 1,
+                "sort": 11
+            },
+            {
+                "chartName": "Assets Sales Volume",
+                "width": 3,
+                "height": 9,
+                "row": 1,
+                "column": 10,
+                "sort": 20
+            },
+            {
+                "chartName": "Portfolio Margin",
+                "width": 9,
+                "height": 4,
+                "row": 6,
+                "column": 1,
+                "sort": 61
+            },
+            {
+                "chartName": "Drawdown",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 1,
+                "sort": 101
+            },
+            {
+                "chartName": "Exposure",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 5,
+                "sort": 105
+            },
+            {
+                "chartName": "Portfolio Turnover",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 9,
+                "sort": 109
+            }
+        ],
+        "xl": [
+            {
+                "chartName": "Strategy Equity",
+                "width": 9,
+                "height": 5,
+                "row": 1,
+                "column": 1,
+                "sort": 11
+            },
+            {
+                "chartName": "Assets Sales Volume",
+                "width": 3,
+                "height": 9,
+                "row": 1,
+                "column": 10,
+                "sort": 20
+            },
+            {
+                "chartName": "Portfolio Margin",
+                "width": 9,
+                "height": 4,
+                "row": 6,
+                "column": 1,
+                "sort": 61
+            },
+            {
+                "chartName": "Drawdown",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 1,
+                "sort": 101
+            },
+            {
+                "chartName": "Exposure",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 5,
+                "sort": 105
+            },
+            {
+                "chartName": "Portfolio Turnover",
+                "width": 4,
+                "height": 3,
+                "row": 10,
+                "column": 9,
+                "sort": 109
+            }
+        ]
+    },
+    "python-venv": 1
+}
